@@ -4,15 +4,14 @@ The run_analysis.R script uses the data included in the UCI HAR Dataset to compl
 project's description.
 
 1. Merges the training and the test sets to create one data set.
-   - Combine x_train and x_test to create new dataframe, x, using rbind()
-   - Combine y_train and y_test to create new dataframe, y, using rbind()
-   - Combine subject_train and subject_test to create new variable, subject, using rbind()
-   - Combine all data (x, y, subject) to create final dataframe, combinedData, using cbind()
+   - Combined x_train and x_test to create new dataframe, x, using rbind()
+   - Combined y_train and y_test to create new dataframe, y, using rbind()
+   - Combined subject_train and subject_test to create new variable, subject, using rbind()
+   - Combined all data (x, y, subject) to create final dataframe, combinedData, using cbind()
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
-   - Create new dataframe from combinedData that includes only measurements on mean and standard deviation using the select() function
-     within dplyr package
-   - Store in new dataframe titled cleanData
+   - Created new dataframe, cleanData, from combinedData that includes only measurements on mean and standard deviation using the
+     select() function within dplyr package
 
 3. Uses descriptive activity names to name the activities in the data set
    - Replaced "code" column with "activity" variable from "activity_labels" column
