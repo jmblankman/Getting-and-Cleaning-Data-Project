@@ -18,8 +18,8 @@ There are 3 other files located in this repository:
    c. Uses descriptive activity names to name the activities in the data set
    
    d. Appropriately labels the data set with descriptive variable names
-   
-   e. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and 
+  
+   e. From the data set in request 'd', creates a second, independent tidy data set with the average of each variable for each activity and 
       each subject
       
 3. finalData.txt - A text file including the final output of the Getting and Cleaning Data Course Project
