@@ -6,7 +6,7 @@ combinedData <- cbind(x, y, subject)
 
 ## Extract only the measurements on the mean and standard deviation for each measurement
 library(dplyr)
-cleanData <- select(combinedData, subject, code, contains ("Mean"), contains("mean"), contains("std"))
+cleanData <- select(combinedData, subject, code, contains("Mean"), contains("mean"), contains("std"))
 
 ## Use descriptive activity names to name the activities in the data set
 cleanData$code <- activity_labels[cleanData$code, 2]
