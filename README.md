@@ -1,10 +1,10 @@
 This repository is my submission for John Hopkin's Getting and Cleaning Data Course Project. 
 
-The dataset used was "Human Activity Recognition Using Smartphones" taken from UCI's Machine Learning Repository. This dataset includes 
+The dataset used was "Human Activity Recognition Using Smartphones" taken from UCI's Machine Learning Repository available below. This dataset includes 
 recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with 
 embedded inertial sensors. 
 
-Available Here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 There are 3 other files located in this repository:
 
