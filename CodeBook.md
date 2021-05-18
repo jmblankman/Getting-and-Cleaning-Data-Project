@@ -1,4 +1,4 @@
-# Getting and Cleaning Data - Final Project
+# Getting and Cleaning Data - Code Book
 
 run_analysis.R uses the data included in the UCI HAR Dataset to complete the 5 following steps as listed in the course
 project's description.
