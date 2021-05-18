@@ -12,4 +12,3 @@ There are 3 other files located in this repository:
 2. CodeBook.md - A code book describing the run_analysis.R script and its functions   
 3. finalData.txt - A text file including the final output of the Getting and Cleaning Data Course Project
 
-Note: This was my first ever coding project so there's a lot of room for improvement
