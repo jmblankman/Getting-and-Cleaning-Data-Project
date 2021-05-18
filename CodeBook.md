@@ -13,7 +13,7 @@ project's description.
    - Created new dataframe, cleanData, from combinedData that includes only measurements on mean and standard deviation using the
      select() function within dplyr package
 
-3. Use descriptive activity names to name the activities in the data set
+3. Use descriptive activity names to name the activities in the data set.
    - Replaced "code" column with "activity" variable from "activity_labels" column
 
 4. Appropriately label the data set with descriptive variable names.
