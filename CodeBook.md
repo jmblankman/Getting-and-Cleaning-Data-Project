@@ -1,6 +1,6 @@
 # Getting and Cleaning Data - Final Project
 
-run_analysis.R uses the data included in the UCI HAR Dataset to complete the following 5 steps as found in the course
+run_analysis.R uses the data included in the UCI HAR Dataset to complete the 5 following steps as listed in the course
 project's description.
 
 1. Merge the training and the test sets to create one data set.
