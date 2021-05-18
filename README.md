@@ -6,7 +6,7 @@ embedded inertial sensors.
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-There are 3 other files located in this repository:
+Download Here: There are 3 other files located in this repository:
 
 1. CodeBook.md - A code book describing the run_analysis.R script and its functions
 2. run_analysis.R - An R script that completes the 5 requests of the Getting and Cleaning Data's Course Project:      
