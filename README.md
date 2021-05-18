@@ -8,6 +8,8 @@ Data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Sm
 
 There are 3 other files located in this repository:
 
-1. CodeBook.md - A code book describing the run_analysis.R script and its functions
-2. run_analysis.R - An R script that completes the 5 requests of the Getting and Cleaning Data's Course Project      
+1. run_analysis.R - An R script that completes the 5 requests of the Getting and Cleaning Data's Course Project   
+2. CodeBook.md - A code book describing the run_analysis.R script and its functions   
 3. finalData.txt - A text file including the final output of the Getting and Cleaning Data Course Project
+
+Note: This was my first ever coding project, and there's a lot of room for improvement
